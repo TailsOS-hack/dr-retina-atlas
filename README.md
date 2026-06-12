@@ -9,19 +9,19 @@ Inspired by [Spectacle](https://singlecell-eye.org/app/spectacle/), built specif
 ## Screenshots
 
 ### Home
-![Home page](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/home.png)
+![Home page](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/home.svg)
 
 ### Cell Explorer — 7,970 real DR cells colored by cell type
-![Cell Explorer - Cell Type](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/explorer-celltype.png)
+![Cell Explorer - Cell Type](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/explorer-celltype.svg)
 
 ### Cell Explorer — DR vs Healthy condition overlay
-![Cell Explorer - Condition](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/explorer-condition.png)
+![Cell Explorer - Condition](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/explorer-condition.svg)
 
 ### Gene Expression Analysis (violin plots, dot plots, live PubMed)
-![Analysis](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/analysis.png)
+![Analysis](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/analysis.svg)
 
 ### Dataset Browser (live CELLxGENE + NCBI GEO)
-![Datasets](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/datasets.png)
+![Datasets](https://raw.githubusercontent.com/TailsOS-hack/dr-retina-atlas/main/public/screenshots/datasets.svg)
 
 ---
 

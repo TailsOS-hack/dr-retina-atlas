@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect width="1280" height="800" fill="#0f172a"/>
+  <rect width="1280" height="56" fill="#1e293b"/>
+  <text x="20" y="36" font-family="monospace" font-size="18" fill="#60a5fa" font-weight="bold">DR-Atlas</text>
+  <text x="1220" y="36" text-anchor="end" font-family="monospace" font-size="14" fill="#94a3b8">Home · Datasets · Cell Explorer · Analysis · How-To Guide</text>
+  <text x="640" y="200" text-anchor="middle" font-family="monospace" font-size="28" fill="white" font-weight="bold">Gene Expression Analysis</text>
+  <foreignObject x="160" y="240" width="960" height="400">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:monospace;font-size:14px;color:#94a3b8;text-align:center;padding:20px;border:1px solid #334155;border-radius:8px;background:#1e293b;">
+      Violin plots for VEGFA expression across 12 retinal cell types, with Dot Plot, Differential Expression, and Live PubMed Literature tabs
+    </div>
+  </foreignObject>
+  <text x="640" y="760" text-anchor="middle" font-family="monospace" font-size="12" fill="#475569">Run npm run dev → http://localhost:5174 to see the live app</text>
+</svg>
