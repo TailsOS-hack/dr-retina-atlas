@@ -4,6 +4,8 @@
 
 Inspired by [Spectacle](https://singlecell-eye.org/app/spectacle/), built specifically for DR — pulling **real data** from EBI Single Cell Expression Atlas, CELLxGENE Discover, NCBI GEO, and PubMed in real time.
 
+**🔗 Live demo: [dr-retina-atlas.vercel.app](https://dr-retina-atlas.vercel.app/)**
+
 ---
 
 ## Screenshots
